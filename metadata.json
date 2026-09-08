@@ -1,0 +1,6 @@
+{
+  "name": "YT Voice",
+  "description": "Aplikasi Text-to-Speech (TTS) modern dan responsif untuk kreator YouTube mengubah naskah menjadi suara narasi natural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
